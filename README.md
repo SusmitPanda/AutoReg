@@ -1,6 +1,6 @@
 #This project is created to get regex of a string in python.
 
-#Example:
+# Example:
 ```
 from AutoReg import AutoReg
 ar=AutoReg()
