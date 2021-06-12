@@ -1,3 +1,9 @@
+Installation
+------------
+
+    pip install -U AutoReg
+
+
 # Example:
 ```
 from AutoReg import AutoReg
